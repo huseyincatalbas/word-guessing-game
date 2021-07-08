@@ -21,8 +21,8 @@ Oyun iki modda ve iki farklı puanlama sistemi ile oynanmaktadır.</br>
 ## Kelime Tahmin Oyunu (Bilgisayar - İnsan) / Word Guessing Game (Computer - Human)
 Oyunda bilgisayar, kullanıcının sözlükten seçtiği bir kelimeyi en az tahminle bulmaya çalışmaktadır. Kullanıcı açılan form ekranından puanlama sistemini 
 kartezyen veya normal olarak seçmektedir.</br>
-*** In the game, the computer tries to find a word selected by the user from the dictionary with the least guesses. The user chooses the scoring system as 
-cartesian or normal from the opened form screen. ***
+***In the game, the computer tries to find a word selected by the user from the dictionary with the least guesses. The user chooses the scoring system as 
+cartesian or normal from the opened form screen.***
 
 Tahmin etme işlemi için, hem yapının hızla oluşturulması hem de kısa sürede bir sonraki tahminin bulunabilmesi 
 için seçilen puanlama sistemine göre tüm sözlüğü bir ağaca yerleştirmek gayet verimli olmaktadır. Bunun için ağaca her eklenecek yeni kelimenin, ağacın 
